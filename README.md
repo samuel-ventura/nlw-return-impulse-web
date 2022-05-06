@@ -51,11 +51,12 @@ Você pode acessar a aplicação do projeto através do link abaixo:
 
 - [Aplicação](https://nlw-return-impulse-web-omega.vercel.app) 
 
-## 🔖 Layout
+## 🔖 Layout e Back-End
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget) 
+- [Layout Web](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
+- [Back-End](https://github.com/samuel-ventura/nlw-return-impulse-server)  
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
