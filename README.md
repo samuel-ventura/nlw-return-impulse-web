@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="NLW-Return" src=".github/svg" width="160px">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/static/v1?label=NLW&message=Return&color=8257E5&labelColor=000000" alt="NLW Return" />
 </p>
 
